@@ -8,7 +8,7 @@
         "client": "npm run --prefix client start"
     },
     "dependencies": {
-        "react": "17.0.2",
+        "react": "18.0.0",
         "regular dependencies": "latest",
         "lodash": "latest",
         "axios": "0.21.1",
