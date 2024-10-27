@@ -7,14 +7,14 @@
         "test": "jest"
     },
     "dependencies": {
-        "sequelize": "6.6.5",
+        "sequelize": "7.0.1",
         "express": "4.17.1",
         "bcrypt": "5.0.1",
         "jsonwebtoken": "8.5.1",
         "nodemailer": "6.7.2"
     },
     "devDependencies": {
-        "sequelize": "6.6.5",
+        "sequelize": "7.0.1",
         "bcrypt": "5.0.0",
         "jsonwebtoken": "8.5.1",
         "nodemailer": "latest"
